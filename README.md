@@ -9,19 +9,15 @@ I'll be following [Saiyam Pathak's Roadmap](https://www.youtube.com/c/saiyam911)
 
 ## Progress
 
-<br>
 
-### What is DevOps?
-
+### ♾️ What is DevOps?
 
 
 * **Day 1 & Day 2 -** [Introduction to Devops](Progress/Day1%26Day2.md)
 
-* **Day 3 -**[DevOps in Practice](Progress/Day3.md)
+* **Day 3 -** [DevOps in Practice](Progress/Day3.md)
 
 * **Day 4-** DevOps & Agile
 
-<br>
-
-### Computer Networking
+### ⌨️ Computer Networking
 * **Day 5-** [Introduction](Progress/Day5.md)
