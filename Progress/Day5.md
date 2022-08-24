@@ -8,13 +8,13 @@ So the very first question is **What is Computer Networking** -
 
 To answer this Question -
 
-A computer Network is a communication network which allows digital devices to share information/ data using wired or wireless connections
+A computer Network is a communication network which allows digital devices to share information/ data using wired or wireless connections.
 
 "In simple terms, it is a collection of computers connected via single technology."
 
 A collection of these computer networks is known as the Internet.
 
-At the early stage of the internet, the concept of automated sharing was missing. To solve this problem comes into the picture, the World Wide Web (WWW).
+At the early stage of the internet, the concept of automated sharing was missing. To solve this problem comes into picture, the World Wide Web (WWW).
 
 <br>
 
@@ -27,7 +27,7 @@ Now we are sharing data with people around the world, and having some basic rule
 
 ## Client-Server Architecture -
 
-Now that we know what is WWW and what are Protocols, we need to put them into action, we need a data transmitter and receiver.
+Now that we know what is WWW and what are Protocols, we need to put them into action.
 
 So far we know that network is a collection of computers connected via some technology that we use to share data or resources.
 

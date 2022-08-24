@@ -21,3 +21,6 @@ I'll be following [Saiyam Pathak's Roadmap](https://www.youtube.com/c/saiyam911)
 
 ### ⌨️ Computer Networking
 * **Day 5-** [Introduction](Progress/Day5.md)
+
+* **Day 6-** [The OSI model](Progress/Day6.md)
+
