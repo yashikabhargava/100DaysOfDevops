@@ -89,7 +89,8 @@ It defines how two devices should encode, encrypt, and compress data so it is re
 
 So, This is what the OSI Model is. It is a reference model and is not implemented on the internet. The internet is based on the simpler TCP/IP model.
 
+## Resources -
 
-
+[Computer Networking Course - Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=7s)
 
 
