@@ -1,5 +1,5 @@
 # 100 Days of Devops
-This Repository is created to document my Journey of getting  learning Devops by doing #100DaysOfDevops. I'll be sharing what I learned and the resources that I followed.
+This Repository is created to document my Journey of learning Devops by doing #100DaysOfDevops. I'll be sharing what I learned and the resources that I followed.
 
 The reason to document my Journey is to stay consistent and to help others get started with their own Journey.
 
